@@ -9,6 +9,10 @@ public class Hello{
     }
 
     public void printEmployeeRole(){
+
+    }
+
+    public void printEmployeeStatus(){
         
     }
     
