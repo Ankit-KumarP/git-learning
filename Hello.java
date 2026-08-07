@@ -7,6 +7,10 @@ public class Hello{
     public void printEmloyeeId(){
         
     }
+
+    public void printEmployeeRole(){
+        
+    }
     
 }
 
