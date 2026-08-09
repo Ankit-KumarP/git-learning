@@ -4,4 +4,8 @@ public class Utlity {
 
         return a + b;
     }
+
+    public int muntiplication(int a, int b){
+        return a * b;
+    }
 }
