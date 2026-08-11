@@ -6,4 +6,8 @@ public class LandingPage {
     public void viewUserScreen(){
         
     }
+
+    public void viewUserTasks(){
+        
+    }
 }
